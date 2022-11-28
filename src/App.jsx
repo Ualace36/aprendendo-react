@@ -14,7 +14,7 @@ function App() {
       nome="Ualace" 
       idade="37" 
       profissao="programador" 
-      foto="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Dt_eLH02JhaCdjrsJklnD2k_awbJIFK7CGKeBW6vGhe0DXU9Yhrp3yfnc1EsGeKG6VM&usqp=CAU"
+      foto="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkGVFGuDpI6YyxBy3BRTuqE4BZPUEvT4Dhokcts11l934TAL_AnpKmBFlZbHktI1Tv88&usqp=CAU"
     />
        </div>
   )
