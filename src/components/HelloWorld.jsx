@@ -1,4 +1,4 @@
-import './HelloWorld.scss'
+import './'
 function HelloWorld(params) {
 
  return (
