@@ -6,8 +6,8 @@ ___
   <img src="https://github.com/Ualace36/dataImag/blob/main/apiLogo.png" width="300" heigth="300">
 </p>
 
-[![skills]([https://cdn.icon-icons.com/icons2/2415/PNG/96/javascript_original_logo_icon_146455.png](https://javascript.info/document))
-[![skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
+[![skills](https://cdn.icon-icons.com/icons2/2415/PNG/96/javascript_original_logo_icon_146455.png)](https://javascript.info/document)
+[![skills](https://cdn.icon-icons.com/icons2/2415/PNG/96/react_original_wordmark_logo_icon_146375.png)](https://pt-br.reactjs.org/)
 
 <p align="center">
   <a href="LICENSE">
