@@ -6,8 +6,8 @@ import Form from './components/Form'
 function App() {
   return (
     <div className="App">
-      <Eventos numero = "1"/>
-      <Eventos numero = "2"/>
+      <h1>Testando Eventos</h1>
+      <Eventos/>
       <Form />
        </div>
   )
