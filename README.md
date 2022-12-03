@@ -6,7 +6,7 @@ ___
   <img src="https://github.com/Ualace36/dataImag/blob/main/apiLogo.png" width="300" heigth="300">
 </p>
 
-[![skills]([https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAG8s9OVOqZiqBVksGqbAk_cKpWF2OVJ9GzA&usqp=CAU))]([https://spring.io/projects/spring-boot/](https://javascript.info/document))
+[![skills]([https://cdn.icon-icons.com/icons2/2415/PNG/96/javascript_original_logo_icon_146455.png](https://javascript.info/document))
 [![skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 
 <p align="center">
