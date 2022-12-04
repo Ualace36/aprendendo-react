@@ -1,17 +1,21 @@
 import './App.scss'
-import Condicional from './components/CondicionaisComponents/Condicional'
-import Eventos from './components/Eventos'
-import Form from './components/Form'
+import OutraLista from './components/listaComponents/OutraLista'
+
 
 
 function App() {
+
+    const meusItens = ['React', 'Vue', 'Angular']
+
   return (
     <div className="App">
       {/* <h1>Testando Eventos</h1>
       <Eventos/>
       <Form /> */}
-      <h1>Renderização Condicional</h1>
-      <Condicional/>
+      <h1>Renderização de listas</h1>
+      <OutraLista itens={meusItens}/>
+      <OutraLista itens={[]}/>
+      
        </div>
   )
 }
